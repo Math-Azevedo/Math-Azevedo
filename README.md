@@ -4,7 +4,7 @@
 
 Transformando experiência operacional em soluções tecnológicas através de **Python, automação de processos e inteligência artificial**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Azevedo-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheus-oaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Azevedo-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheus-azevedo-b51261213/)
 [![GitHub](https://img.shields.io/badge/GitHub-Math--Azevedo-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Math-Azevedo)
 
 ---
