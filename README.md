@@ -6,12 +6,13 @@
 
 Transformando experiência operacional em soluções tecnológicas através de Python, automação de processos e inteligência artificial.
 
-<p align='left'>
-  www.linkedin.com/in/matheus-oaa">
-    https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  https://www.linkedin.com/in/matheus-azevedo-b51261213/">
+    https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
   </a>
-  https://github.com/Math-Azevedo">
-    https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  https://github.com/Math-Azevedo
+    https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
   </a>
 </p>
 
@@ -36,7 +37,7 @@ Minha trajetória me permitiu desenvolver habilidades analíticas, organização
 
 <div align="center">
 
-https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,vscode,mysql
+illicons.dev/icons?i=python,django,html,css,bootstrap,git,github,vscode,mysql" />
 
 </div>
 
