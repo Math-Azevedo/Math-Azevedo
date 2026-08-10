@@ -73,7 +73,7 @@ Sistema web desenvolvido com **Python, Django e Bootstrap** para fortalecer a co
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-🔗 **Repositório:** Adicione aqui o link do projeto.
+🔗 **Repositório:https://github.com/Math-Azevedo/Escolarize**
 
 ---
 
