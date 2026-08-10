@@ -47,7 +47,6 @@ https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,vscod
 - Python Avançado
 - Django
 - SQL
-- APIs REST
 - Inteligência Artificial
 - Estruturas de Dados
 - Boas Práticas de Desenvolvimento
