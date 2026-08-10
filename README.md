@@ -6,7 +6,7 @@
 
 Transformando experiência operacional em soluções tecnológicas através de Python, automação de processos e inteligência artificial.
 
-<p >
+<p align='left'>
   www.linkedin.com/in/matheus-oaa">
     https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
