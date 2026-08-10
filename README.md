@@ -1,22 +1,12 @@
-<div align="center">
-
 # 👋 Olá, eu sou Matheus Azevedo
 
 ### 🚀 Desenvolvedor Python em Formação | Automação | IA | Análise de Dados
 
 Transformando experiência operacional em soluções tecnológicas através de Python, automação de processos e inteligência artificial.
 
-<p align="center">
-  https://www.linkedin.com/in/matheus-azevedo-b51261213/">
-    https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-  </a>
+https://img.shields.io/badge/LinkedIn-Matheus_Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/matheus-oaa)
 
-  https://github.com/Math-Azevedo
-    https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-  </a>
-</p>
-
-</div>
+https://img.shields.io/badge/GitHub-Math--Azevedo-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/Math-Azevedo)
 
 ---
 
@@ -24,7 +14,7 @@ Transformando experiência operacional em soluções tecnológicas através de P
 
 Sou um profissional com experiência em logística, operações e melhoria contínua, atualmente em transição para a área de Tecnologia.
 
-Minha trajetória me permitiu desenvolver habilidades analíticas, organização, visão de processos e resolução de problemas, competências que hoje aplico no desenvolvimento de software e automação.
+Minha trajetória me permitiu desenvolver competências em resolução de problemas, gestão de processos e análise operacional, habilidades que hoje aplico no desenvolvimento de software e na automação de tarefas.
 
 - 💻 Estudando Python, Django, SQL e Inteligência Artificial
 - 🚀 Desenvolvendo projetos para consolidar minha transição de carreira
@@ -33,13 +23,17 @@ Minha trajetória me permitiu desenvolver habilidades analíticas, organização
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
-<div align="center">
-
-illicons.dev/icons?i=python,django,html,css,bootstrap,git,github,vscode,mysql" />
-
-</div>
+https://skillicons.dev/icons?i=python
+https://skillicons.dev/icons?i=django
+https://skillicons.dev/icons?i=html
+https://skillicons.dev/icons?i=css
+https://skillicons.dev/icons?i=bootstrap
+https://skillicons.dev/icons?i=git
+https://skillicons.dev/icons?i=github
+https://skillicons.dev/icons?i=vscode
+https://skillicons.dev/icons?i=mysql
 
 ---
 
@@ -48,6 +42,7 @@ illicons.dev/icons?i=python,django,html,css,bootstrap,git,github,vscode,mysql" /
 - Python Avançado
 - Django
 - SQL
+- APIs REST
 - Inteligência Artificial
 - Estruturas de Dados
 - Boas Práticas de Desenvolvimento
@@ -59,6 +54,8 @@ illicons.dev/icons?i=python,django,html,css,bootstrap,git,github,vscode,mysql" /
 ### Escolarize
 
 Sistema web desenvolvido com **Python, Django e Bootstrap** para fortalecer a comunicação entre escolas, professores e responsáveis.
+
+### Funcionalidades
 
 ✅ Comunicação entre responsáveis e professores
 
@@ -74,31 +71,25 @@ Sistema web desenvolvido com **Python, Django e Bootstrap** para fortalecer a co
 
 ### Tecnologias Utilizadas
 
-<p>
-  6AB?style=flat&logo=python&logoColor=white"/>
-  https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white
-  img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-</p>
+https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
 
-🔗 Repositório: Adicione aqui o link do projeto Escolarize
+https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white
+
+https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white
+
+🔗 **Repositório:** Adicione aqui o link do projeto.
 
 ---
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
-
-https://github-readme-stats.vercel.app/api?username=Math-Azevedo&show_icons=true&theme=tokyonight&include_all_commits=true
+https://github-readme-stats.vercel.app/api?username=Math-Azevedo&show_icons=true&theme=tokyonight
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Azevedo&layout=compact&theme=tokyonight
 
-</div>
-
 ---
 
-## 💡 Competências
-
-### Técnicas
+## 💡 Competências Técnicas
 
 - Python
 - Django
@@ -112,7 +103,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Azevedo&layo
 - Inteligência Artificial
 - Análise de Dados
 
-### Comportamentais
+---
+
+## 🤝 Competências Comportamentais
 
 - Resolução de Problemas
 - Pensamento Analítico
@@ -128,18 +121,10 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Azevedo&layo
 
 ## 📫 Contato
 
-📧 Vamos nos conectar:
-
-🔗 LinkedIn: https://www.linkedin.com/in/matheus-azevedo-b51261213/
+🔗 LinkedIn: https://www.linkedin.com/in/matheus-oaa
 
 🔗 GitHub: https://github.com/Math-Azevedo
 
 ---
 
-<div align="center">
-
-### ⭐ Obrigado pela visita!
-
-Sempre aprendendo, construindo projetos e evoluindo na jornada para a área de Tecnologia.
-
-</div>
+⭐ Sempre aprendendo, construindo projetos e evoluindo na jornada para a área de Tecnologia.
