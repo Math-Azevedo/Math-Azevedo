@@ -6,15 +6,14 @@
 
 Transformando experiência operacional em soluções tecnológicas através de Python, automação de processos e inteligência artificial.
 
-<br>
-
-https://www.linkedin.com/in/matheus-oaa
-  ://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-SEU_USUARIO">
-  .io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  www.linkedin.com/in/matheus-oaa">
+    https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  https://github.com/Math-Azevedo">
+    https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -24,23 +23,20 @@ SEU_USUARIO">
 
 Sou um profissional com experiência em logística, operações e melhoria contínua, atualmente em transição para a área de Tecnologia.
 
-Minha trajetória me permitiu desenvolver habilidades analíticas, visão de processos e resolução de problemas, competências que hoje aplico no desenvolvimento de software e na automação de tarefas.
+Minha trajetória me permitiu desenvolver habilidades analíticas, organização, visão de processos e resolução de problemas, competências que hoje aplico no desenvolvimento de software e automação.
 
-🎯 Atualmente busco oportunidades em:
-
-- Desenvolvimento Python
-- Desenvolvimento Web
-- Automação de Processos
-- Inteligência Artificial
-- Análise de Dados
+- 💻 Estudando Python, Django, SQL e Inteligência Artificial
+- 🚀 Desenvolvendo projetos para consolidar minha transição de carreira
+- 📊 Interesse em Desenvolvimento Back-end, Automação e Dados
+- 📚 Aprendizado contínuo através de projetos práticos
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
-?i=python,django,html,css,bootstrap,git,github,vscode,mysql" />
+https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,vscode,mysql
 
 </div>
 
@@ -53,16 +49,16 @@ Minha trajetória me permitiu desenvolver habilidades analíticas, visão de pro
 - SQL
 - APIs REST
 - Inteligência Artificial
-- Boas Práticas de Desenvolvimento
 - Estruturas de Dados
+- Boas Práticas de Desenvolvimento
 
 ---
 
-## 🏆 Projeto em Destaque
+## 🎓 Projeto em Destaque
 
-### 🎓 Escolarize
+### Escolarize
 
-Sistema web desenvolvido para melhorar a comunicação entre escolas, professores e responsáveis.
+Sistema web desenvolvido com **Python, Django e Bootstrap** para fortalecer a comunicação entre escolas, professores e responsáveis.
 
 ✅ Comunicação entre responsáveis e professores
 
@@ -72,17 +68,19 @@ Sistema web desenvolvido para melhorar a comunicação entre escolas, professore
 
 ✅ Sistema de autenticação de usuários
 
-✅ Interface responsiva desenvolvida com Bootstrap
+✅ Interface responsiva
 
-### Tecnologias utilizadas
+✅ Centralização de informações acadêmicas
 
-- Python
-- Django
-- HTML5
-- CSS3
-- Bootstrap
+### Tecnologias Utilizadas
 
-🔗 **Repositório:** Adicione aqui o link do projeto.
+<p>
+  6AB?style=flat&logo=python&logoColor=white"/>
+  https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white
+  img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+</p>
+
+🔗 Repositório: Adicione aqui o link do projeto Escolarize
 
 ---
 
@@ -90,9 +88,9 @@ Sistema web desenvolvido para melhorar a comunicação entre escolas, professore
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api?username=Math-Azevedo&show_icons=true&theme=tokyonight&include_all_commits=true
 
-://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Azevedo&layout=compact&theme=tokyonight
 
 </div>
 
@@ -100,29 +98,48 @@ https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&
 
 ## 💡 Competências
 
+### Técnicas
+
+- Python
+- Django
+- HTML5
+- CSS3
+- Bootstrap
+- SQL
+- Git
+- GitHub
+- Automação de Processos
+- Inteligência Artificial
+- Análise de Dados
+
+### Comportamentais
+
 - Resolução de Problemas
 - Pensamento Analítico
-- Automação de Processos
-- Gestão de Processos
-- Melhoria Contínua
-- Organização
-- Adaptabilidade
-- Trabalho em Equipe
 - Aprendizado Contínuo
+- Adaptabilidade
+- Organização
+- Proatividade
+- Trabalho em Equipe
+- Comunicação
 - Foco em Resultados
 
 ---
 
 ## 📫 Contato
 
-📧 Entre em contato através do LinkedIn:
+📧 Vamos nos conectar:
 
-🔗 https://www.linkedin.com/in/matheus-oaa
+🔗 LinkedIn: https://www.linkedin.com/in/matheus-azevedo-b51261213/
+
+🔗 GitHub: https://github.com/Math-Azevedo
 
 ---
 
 <div align="center">
 
-### 🚀 Sempre aprendendo, desenvolvendo projetos e evoluindo na jornada para a área de Tecnologia.
+### ⭐ Obrigado pela visita!
+
+Sempre aprendendo, construindo projetos e evoluindo na jornada para a área de Tecnologia.
 
 </div>
