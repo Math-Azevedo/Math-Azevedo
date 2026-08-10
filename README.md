@@ -1,97 +1,100 @@
+<div align="center">
+
 # 👋 Olá, eu sou Matheus Azevedo
 
-### 🚀 Profissional de Operações em Transição para Tecnologia
+### 🚀 Desenvolvedor Python em Formação | Automação | IA | Análise de Dados
 
-Sou um profissional com experiência em logística, gestão de processos e melhoria contínua, atualmente direcionando minha carreira para a área de Tecnologia.
+Transformando experiência operacional em soluções tecnológicas através de Python, automação de processos e inteligência artificial.
 
-Minha trajetória me proporcionou uma visão analítica, foco em resultados e experiência na resolução de problemas. Hoje aplico essas competências no aprendizado de desenvolvimento de software, automação de processos, análise de dados e inteligência artificial.
+<br>
 
----
+https://www.linkedin.com/in/matheus-oaa
+  ://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🎯 Sobre Mim
+SEU_USUARIO">
+  .io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- 💻 Estudando Python, Django, SQL e Inteligência Artificial
-- 🔄 Em transição de carreira para a área de Tecnologia
-- 📈 Interesse em Desenvolvimento Back-end, Automação e Dados
-- 🌱 Aprendendo constantemente através de cursos e projetos práticos
-- 🚀 Construindo soluções para problemas reais através da tecnologia
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Linguagens
-
-![Python](https:/ds.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-![SQL](https://img.shields.ioSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-
-### Frameworks e Front-end
-
-![Django](https://img.shields.io/badge/Django-092E20-the-badge&logo=django&logoColor=white
-![Bootstrap](https://img.shieldststrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
-![HTML5](https://img.shields.io/badge/HTML-E34Ffor-the-badge&logo=html5&logoColor=white
-![CSS3](https://img.shields.io/badge/CSS-157e=for-the-badge&logo=css3&logoColor=white
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge5032?style=for-the-badge&logo=git&logoColor=white
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github=white
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftgoColor=white
+</div>
 
 ---
 
-## 📂 Projetos em Destaque
+## 👨‍💻 Sobre Mim
 
-### 🎓 Escolarize
+Sou um profissional com experiência em logística, operações e melhoria contínua, atualmente em transição para a área de Tecnologia.
 
-Aplicação web desenvolvida com Python, Django e Bootstrap, criada para melhorar a comunicação entre escolas, professores e responsáveis.
+Minha trajetória me permitiu desenvolver habilidades analíticas, visão de processos e resolução de problemas, competências que hoje aplico no desenvolvimento de software e na automação de tarefas.
 
-**Principais funcionalidades:**
+🎯 Atualmente busco oportunidades em:
 
-✅ Comunicação entre responsáveis e professores  
-✅ Compartilhamento de avisos e comunicados  
-✅ Acompanhamento da vida escolar dos alunos  
-✅ Sistema de autenticação de usuários  
-✅ Interface responsiva  
-✅ Centralização de informações acadêmicas
-
-**Tecnologias utilizadas:**
-
-- Python
-- Django
-- Bootstrap
-- HTML5
-- CSS3
-
-🔗 Repositório: *Adicione o link aqui*
+- Desenvolvimento Python
+- Desenvolvimento Web
+- Automação de Processos
+- Inteligência Artificial
+- Análise de Dados
 
 ---
 
-## 📚 Atualmente Aprendendo
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+
+?i=python,django,html,css,bootstrap,git,github,vscode,mysql" />
+
+</div>
+
+---
+
+## 📚 Atualmente Estudando
 
 - Python Avançado
 - Django
 - SQL
+- APIs REST
 - Inteligência Artificial
-- Automação de Processos
-- Análise de Dados
-- Boas práticas de Desenvolvimento de Software
+- Boas Práticas de Desenvolvimento
+- Estruturas de Dados
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🏆 Projeto em Destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/apiUARIO&show_icons=true&theme=tokyonight
+### 🎓 Escolarize
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_UScompact&theme=tokyonight
+Sistema web desenvolvido para melhorar a comunicação entre escolas, professores e responsáveis.
+
+✅ Comunicação entre responsáveis e professores
+
+✅ Compartilhamento de avisos e comunicados
+
+✅ Acompanhamento da vida escolar dos estudantes
+
+✅ Sistema de autenticação de usuários
+
+✅ Interface responsiva desenvolvida com Bootstrap
+
+### Tecnologias utilizadas
+
+- Python
+- Django
+- HTML5
+- CSS3
+- Bootstrap
+
+🔗 **Repositório:** Adicione aqui o link do projeto.
 
 ---
 
-## 🤝 Conecte-se Comigo
+## 📊 Estatísticas GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedinite](https://www.linkedin.com/in/matheus-azevedo-b51261213/)
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?styledge&logo=github&logoColor=white](https://github.com/Math-Azevedo)
+https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight
+
+://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -102,12 +105,24 @@ Aplicação web desenvolvida com Python, Django e Bootstrap, criada para melhora
 - Automação de Processos
 - Gestão de Processos
 - Melhoria Contínua
-- Trabalho em Equipe
-- Adaptabilidade
 - Organização
+- Adaptabilidade
+- Trabalho em Equipe
 - Aprendizado Contínuo
 - Foco em Resultados
 
 ---
 
-### 🚀 Transformando experiência operacional em soluções tecnológicas através de Python, automação e inteligência artificial.
+## 📫 Contato
+
+📧 Entre em contato através do LinkedIn:
+
+🔗 https://www.linkedin.com/in/matheus-oaa
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aprendendo, desenvolvendo projetos e evoluindo na jornada para a área de Tecnologia.
+
+</div>
